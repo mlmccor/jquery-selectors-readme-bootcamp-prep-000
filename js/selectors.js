@@ -11,9 +11,9 @@ function ninjaBabySelector() {
 }
 
 function divSelector() {
-  
+  $(`.pics`)
 }
 
 function firstListItem() {
-  
+  $(`ul img:pic-list`)
 }
